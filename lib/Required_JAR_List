@@ -1,0 +1,8 @@
+Reports:
+itext-2.1.7.jar
+
+itextpdf-5.1.3.jar
+	MVN : https://mvnrepository.com/artifact/com.itextpdf/itextpdf
+	
+Apache Commons Lang3 « commons-lang3-3.5.jar
+	MVN : https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.5
